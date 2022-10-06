@@ -1,0 +1,10 @@
+file: E:\C”Ô—‘¡∑œ∞\C”Ô—‘‘§¥¶¿Ì£®2£©\C”Ô—‘‘§¥¶¿Ì£®2£©\test.c line: 56 date: Oct  6 2022 time: 17:59:10 i: 0
+file: E:\C”Ô—‘¡∑œ∞\C”Ô—‘‘§¥¶¿Ì£®2£©\C”Ô—‘‘§¥¶¿Ì£®2£©\test.c line: 56 date: Oct  6 2022 time: 17:59:10 i: 1
+file: E:\C”Ô—‘¡∑œ∞\C”Ô—‘‘§¥¶¿Ì£®2£©\C”Ô—‘‘§¥¶¿Ì£®2£©\test.c line: 56 date: Oct  6 2022 time: 17:59:10 i: 2
+file: E:\C”Ô—‘¡∑œ∞\C”Ô—‘‘§¥¶¿Ì£®2£©\C”Ô—‘‘§¥¶¿Ì£®2£©\test.c line: 56 date: Oct  6 2022 time: 17:59:10 i: 3
+file: E:\C”Ô—‘¡∑œ∞\C”Ô—‘‘§¥¶¿Ì£®2£©\C”Ô—‘‘§¥¶¿Ì£®2£©\test.c line: 56 date: Oct  6 2022 time: 17:59:10 i: 4
+file: E:\C”Ô—‘¡∑œ∞\C”Ô—‘‘§¥¶¿Ì£®2£©\C”Ô—‘‘§¥¶¿Ì£®2£©\test.c line: 56 date: Oct  6 2022 time: 17:59:10 i: 5
+file: E:\C”Ô—‘¡∑œ∞\C”Ô—‘‘§¥¶¿Ì£®2£©\C”Ô—‘‘§¥¶¿Ì£®2£©\test.c line: 56 date: Oct  6 2022 time: 17:59:10 i: 6
+file: E:\C”Ô—‘¡∑œ∞\C”Ô—‘‘§¥¶¿Ì£®2£©\C”Ô—‘‘§¥¶¿Ì£®2£©\test.c line: 56 date: Oct  6 2022 time: 17:59:10 i: 7
+file: E:\C”Ô—‘¡∑œ∞\C”Ô—‘‘§¥¶¿Ì£®2£©\C”Ô—‘‘§¥¶¿Ì£®2£©\test.c line: 56 date: Oct  6 2022 time: 17:59:10 i: 8
+file: E:\C”Ô—‘¡∑œ∞\C”Ô—‘‘§¥¶¿Ì£®2£©\C”Ô—‘‘§¥¶¿Ì£®2£©\test.c line: 56 date: Oct  6 2022 time: 17:59:10 i: 9
